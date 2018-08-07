@@ -4,3 +4,9 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
+@import "sass-flexbox/main";
+
+
+div{
+  border:1px solid red;
+}
